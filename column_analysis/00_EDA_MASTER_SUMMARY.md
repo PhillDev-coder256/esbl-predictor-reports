@@ -1,5 +1,5 @@
 # ESBL-PE Predictor — EDA Master Summary
-**Run by:** Phillip Ssempeebwa (Mbarara University of Science and Technology)  
+**Run by:** Henry Zamarano (Mbarara Regional Referral Hospital)  
 **Dataset:** data/16 RAW DATA ESBL PE.xlsx  
 **Full cohort:** 1,569 rows × 81 columns  
 **Labelled for modelling:** 660 rows (281 ESBL-positive, 379 ESBL-negative)
